@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1429602822 source:c:\users\administrator\desktop\21st april,15\graphprac\main.cpp
+	<iostream>
+	"Graph.h"
+	"Vertex.h"
+
+1429600933 source:c:\users\administrator\desktop\21st april,15\graphprac\src\graph.cpp
+	"Graph.h"
+	<iostream>
+
+1429602531 c:\users\administrator\desktop\21st april,15\graphprac\include\graph.h
+	"Vertex.h"
+
+1429602531 c:\users\administrator\desktop\21st april,15\graphprac\include\vertex.h
+
+1429602809 source:c:\users\administrator\desktop\21st april,15\graphprac\src\vertex.cpp
+	"Vertex.h"
+
